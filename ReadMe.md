@@ -1,6 +1,6 @@
-In an eCommerce application, conditionals in JavaScript can be used to:
-__Display discounts__: Show discounted prices if a user is logged in or if a promotion is active.
-__Cart validation__: Ensure that items are in stock before allowing a purchase.
+In an eCommerce application, conditionals in JavaScript can be used to:\
+__Display discounts__: Show discounted prices if a user is logged in or if a promotion is active.\
+__Cart validation__: Ensure that items are in stock before allowing a purchase.\
 __Payment gateway selection__: Choose a payment gateway based on user preferences or location.
 
 
